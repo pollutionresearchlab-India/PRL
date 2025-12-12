@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rania Site KML</name>
+	<gx:CascadingStyle kml:id="__managed_style_1CDA9F851126CB3003EC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_01E89A037E26CB3003ED">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02120AD51026CB3003EC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1CDA9F851126CB3003EC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_01E89A037E26CB3003ED</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_24E222C63B26CB3003EB">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_18AEFDA29326CB3003EB">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01FED7EE2326CB3003EB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_18AEFDA29326CB3003EB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24E222C63B26CB3003EB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0B15FD28D625AAAD99FB">
+		<name>Rania Site-Demo</name>
+		<LookAt>
+			<longitude>80.05929633044211</longitude>
+			<latitude>26.4027948656144</latitude>
+			<altitude>132.1059070526994</altitude>
+			<heading>331.9182748026064</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8432.214609958464</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01FED7EE2326CB3003EB</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						80.03857099796221,26.39473752214898,130.1720383456566 80.0479247823222,26.38218705798576,130.1821326499385 80.0548486823099,26.38537120851537,130.1774978416347 80.08502418077288,26.39764646526737,130.1759569443546 80.08366520637236,26.40040139086021,130.1955258591142 80.07326842895124,26.42392777450612,130.180673373627 80.05090936586431,26.41520614380588,129.5391820034627 80.03355065169771,26.4126990847605,128.9422735774801 80.03857099796221,26.39473752214898,130.1720383456566 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0A2A5BC7BA25AAB04955">
+		<name>Rania 2KM</name>
+		<LookAt>
+			<longitude>80.05639596343447</longitude>
+			<latitude>26.40277576481096</latitude>
+			<altitude>130.1916735720599</altitude>
+			<heading>332.7802508651316</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00035864102136</gx:fovy>
+			<range>10575.15017864294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02120AD51026CB3003EC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						80.04663914228321,26.39903549995988,130.209042809 80.03858382096463,26.39492327229381,130.1720559721756 80.04408674711615,26.38732873025458,130.1887593397732 80.05060083088701,26.39006429981297,130.1895233305433 80.05345000858584,26.38475681317604,130.1708900444293 80.05974887869345,26.38734833664079,130.1873376803773 80.0570287931195,26.39182664891306,130.19500343229 80.05310589258467,26.39779439851922,130.1785611422983 80.06317607337046,26.4015907230851,132.7579098234941 80.06244071696763,26.4035617721471,133.2473132765973 80.060377808984,26.40923075282557,130.1827200954178 80.05114588766008,26.41528562956595,130.1687883352553 80.03349954052349,26.41275343237924,130.1924304273435 80.04663914228321,26.39903549995988,130.209042809 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
