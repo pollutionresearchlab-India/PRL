@@ -1,0 +1,90 @@
+﻿Question No,Question (English),Option Code,Option Label,Response,Percentage
+Q1,How do you get drinking water?,1,Well,0,0.00
+,,2,Borewell,43,28.48
+,,3,Community Tap,68,45.03
+,,4,Other (Specify) (Purchase),40,26.49
+Q2,Have you ever tested your groundwater for contamination?,1,Yes,85,59.44
+,,2,No,52,36.36
+,,3,Don't know,6,4.20
+Q3,"If yes, which contaminants were found?",1,Arsenic,0,0
+,,2,Chromium,19,13.29
+,,3,Lead,0,0.00
+,,4,Other (Specify)/ Don’t know,124,86.71
+Q4,"How often do you face issues with odd taste, color, or smell in groundwater?",1,Never,23,16.08
+,,2,Sometimes,4,2.80
+,,3,Often,3,2.10
+,,4,Always,113,79.02
+Q5,Are you aware of Chromium contamination in groundwater?,1,Yes,41,28.67
+,,2,No,102,71.33
+Q6,Do you use surface water for any purpose?,1,Yes,6,4.20
+,,2,No,137,95.80
+Q7,For what purpose do you use surface water?,1,Drinking,0,0.00
+,,2,Cooking,1,0.70
+,,3,Irrigation,5,3.50
+,,4,Bathing,0,0.00
+,,5,Other (Specify),137,95.80
+Q8,Have you noticed any change in surface water quality over the years?,1,Yes,18,12.59
+,,2,No,125,87.41
+Q9,"If yes, what changes have you observed?",1,Color Change,13,8.55
+,,2,Bad Smell,14,9.21
+,,3,Water Level Decrease,5,3.29
+,,4,Algae Growth,2,1.32
+,,5,Other (Specify),118,77.63
+Q10,Are you aware of any pollution problem in surface water in your area?,1,Yes,19,13.29
+,,2,No,124,86.71
+Q11,Do you use groundwater or surface water for irrigation?,1,Groundwater,123,95.35
+,,2,Surface Water,1,0.78
+,,3,Both,5,3.88
+Q12,Have you noticed any change in crop production or quality over the years?,1,Yes,103,81.10
+,,2,No,24,18.90
+Q13,"If yes, what changes did you notice?",1,Low Yield,88,47.31
+,,2,Poor Quality,38,20.43
+,,3,Plant Diseases,26,13.98
+,,4,Other (Specify),34,18.28
+Q14,Do you think water quality affects your agricultural productivity?,1,Yes,102,81.6
+,,2,No,23,18.4
+Q15,Are you aware of Chromium contamination in irrigation water?,1,Yes,42,32.31
+,,2,No,88,67.69
+Q16,How much water do you drink daily?,1,<2 L,5,3.50
+,,2,2-3 L,36,25.17
+,,3,3-4 L,23,16.08
+,,4,>4 L,79,55.24
+Q17,Have you or any of your family members faced health issues due to water quality?,1,Yes,118,83.22
+,,2,No,24,16.78
+Q18,"If yes, what health issues were faced?",1,Skin Rashes,97,51.87
+,,2,Stomach Issues,53,28.34
+,,3,Respiratory Issues,3,1.60
+,,4,Other (Specify),34,18.18
+Q19,Do you think these health problems are related to water quality in your area?,1,Yes,127,90.07
+,,2,No,14,9.93
+Q20,Are you aware of health impacts of Chromium contamination?,1,Yes,31,21.68
+,,2,No,112,78.32
+Q21,Do you take any measures to ensure your water is safe?,1,Boiling,12,8.22
+,,2,Filtering,1,0.68
+,,3,Bottled Water,30,20.55
+,,4,No measure taken,103,70.55
+Q22,Would you like to know more about prevention methods from water pollution?,1,Yes,127,88.81
+,,2,No,16,11.19
+Q23,Have you ever attended any workshop or seminar on water pollution and its impacts?,1,Yes,22,15.38
+,,2,No,121,84.62
+Q24,Do you think local government is doing enough to address water pollution issues?,1,Yes,40,28.37
+,,2,No,101,71.63
+Q25,"In your opinion, what steps should be taken to improve water quality?",1,Regular Source Testing,57,32.76
+,,2,Awareness Campaigns,6,3.45
+,,3,Install Purification Systems,83,47.70
+,,4,Other (Specify),28,16.09
+Q26,Would you participate in community efforts to improve water quality?,1,Yes,129,90.21
+,,2,No,14,9.79
+Q27,Any additional comments or suggestions regarding water pollution and awareness?,1,,0,
+Q28,Did you notice any change in your drinking water in the past year?,1,Yes,45,31.47
+,,2,No,98,68.53
+Q29,Is there regular water quality testing in your area?,1,Yes,101,70.63
+,,2,No,33,23.08
+,,3,Don't know,9,6.29
+Q30,Do you have a borewell at home?,1,Yes,96,72.18
+,,2,No,37,27.82
+Q31,"If yes, what is the depth of the borewell?",1,Depth (in feet),79,55.24
+Q32,Have you experienced new crop diseases?,1,Yes,96,67.13
+,,2,No,40,27.97
+Q33,Can we publish this data in research?,1,Yes,143,100.00
+,,2,No,0,0.00
