@@ -1,0 +1,16 @@
+﻿Table: Maximum Cr in groundwater at every season with other parameters,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Month (Year),Latittude,Langtitude,Cr (mg/l),pH,TDS (mg/l),EC (uS/cm),Alkalinity (mg/l),TH (mg/l),Na (mg/l),K(mg/l),Ca (mg/l),Mg(mg/l),Fe(mg/l),,,,,,,,
+Oct-22,26.3947164,80.049759,39.64,7.36,481,1025,,,133.63,5.96,89.5,72.7,5.313,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Month (Year),Lat,Long,Cr (ppm),pH,EC (uS/cm),TDS,Cl (mg/l),TH (mg/l),Alkalinity (mg/l),Nitrate (mg/l),Phosphate (mg/l),Ca (mg/l),Mg (mg/l),Fe (mg/l),K (mg/l),Na (mg/l),,,,,
+Jun-23,26.394984,80.049949,39.48,7.42,1754,510,8.52,530,373.2,0,0.3,97.6,45.6,4.9,3.8,198.3,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Month (Year),Lat,Long,Cr (mg/l),pH,EC,TDS (mg/l),TH (mg/l),Alkalinity (mg/l),Nitrate (mg/l),Phosphate (mg/l),Ca (mg/l),Mg (mg/l),Fe (mg/l),K (mg/l),Ba (mg/l),B (mg/l),Pb (mg/l),,,,
+Feb-24,26.394984,80.049949,27.3,7.54,1872,543,432,212.2,17.4,0,83.4,31.1,1.08,2.02,0.2,0.01,0.09,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Month (Year),Latitude,Longitude,Cr (mg/l),pH,EC,TDS,Cl (mg/l),TH (mg/l),Turbidity (NTU),Alkalinity (mg/l),Ca (mg/l),K (mg/l),Mg (mg/l),Na (mg/l),Fe (mg/l),Ba (mg/l),B (mg/l),Pb (mg/l),Mn (mg/l),Nitrate (mg/l),Phosphate (mg/l)
+Jul-24,26.39591,80.050385,26.43,7.72,2440,514,8.52,253,0.46,188,87.36,4.44,41.3,253.3,0.02,0.1375,0.05,0.03,0.03,18.32,5.052
