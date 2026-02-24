@@ -1,2 +1,2 @@
-Required Citation using DOI: 10.5281/zenodo.18074982 for any publication based on the data from the PRL repository
-Required acknowledgement of Ramanujan Fellowship Grant (RJF/2021/000159) to Dr. Pankaj Kumar Gupta (https://drpankajkgupta.in/)
+Gupta, P. K. (2025). PRL Repository: Restoration of Chromium Contaminated Soil-Groundwater Systems at COPR Site in Rania and Khan Chandpur Villages, Kanpur Dehat,India. Zenodo. https://doi.org/10.5281/zenodo.18074982
+The work reported herein has been carried out with financial support from the ANRF–Ramanujan Fellowship Grant (RJF/2021/000159) awarded to Dr. Pankaj Kumar Gupta. Any use of data generated under this grant requires prior approval of the Fellowship awardee.
